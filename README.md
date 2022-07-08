@@ -9,14 +9,14 @@ Generador de Reverse shell multiplataforma.
 
 | Nivel | Nombre | Windows| Linux | Mac | Android |  
 | ------------- | ------------- |--|--|--|-
-|1| Bash |  :no_entry: Incompatible | :negative_squared_cross_mark: Compatible |:negative_squared_cross_mark: Compatible| :negative_squared_cross_mark: Compatible|
-|2| PHP  |  :negative_squared_cross_mark: Compatible|:no_entry: Incompatible | :no_entry:Incompatible | :no_entry:Incompatible|
-|3| Python | :negative_squared_cross_mark: Compatible| :negative_squared_cross_mark: Compatible| :negative_squared_cross_mark: Compatible | :negative_squared_cross_mark: Compatible|
-|4| Goland | :negative_squared_cross_mark: Compatible | :negative_squared_cross_mark: Compatible| :no_entry:Incompatible| :no_entry:Incompatible|
-|5| Ruby | :negative_squared_cross_mark: Compatible| :negative_squared_cross_mark: Compatible | :negative_squared_cross_mark: Compatible | :no_entry:Incompatible
-|6| Perl | :negative_squared_cross_mark: Compatible | :negative_squared_cross_mark: Compatible | :negative_squared_cross_mark: Compatible| :negative_squared_cross_mark: Compatible
-|7| Java |:negative_squared_cross_mark: Compatible| :negative_squared_cross_mark: Compatible | :no_entry:Incompatible|:negative_squared_cross_mark: Compatible |
-|8| Javascript | :negative_squared_cross_mark: Compatible| :negative_squared_cross_mark: Compatible| :negative_squared_cross_mark: Compatible |:no_entry:Incompatible|
+|1| Bash |  :no_entry: Incompatible | :white_check_mark: Compatible |:white_check_mark: Compatible| :white_check_mark: Compatible|
+|2| PHP  |  :white_check_mark: Compatible|:no_entry: Incompatible | :no_entry:Incompatible | :no_entry:Incompatible|
+|3| Python | :white_check_mark: Compatible| :white_check_mark: Compatible| :white_check_mark: Compatible | :white_check_mark: Compatible|
+|4| Goland | :white_check_mark: Compatible | :white_check_mark: Compatible| :no_entry:Incompatible| :no_entry:Incompatible|
+|5| Ruby | :white_check_mark: Compatible| :white_check_mark: Compatible | :white_check_mark: Compatible | :no_entry:Incompatible
+|6| Perl | :white_check_mark: Compatible | :white_check_mark: Compatible | :white_check_mark: Compatible| :white_check_mark: Compatible
+|7| Java |:white_check_mark: Compatible| :white_check_mark: Compatible | :no_entry:Incompatible|:white_check_mark: Compatible |
+|8| Javascript | :white_check_mark: Compatible| :white_check_mark: Compatible| :white_check_mark: Compatible |:no_entry:Incompatible|
 
 ## Ejecución
 
