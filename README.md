@@ -2,6 +2,9 @@
 # RS Generator - Mrx04programmer
 
 Generador de Reverse shell multiplataforma.
+
+## Esquema
+![Esquema](https://raw.githubusercontent.com/mrx04programmer/RS-Generator/master/squema.png)
 ## Niveles de Seguridad con las Reverse Shell generados
 
 | Nivel | Nombre | Windows| Linux | Mac | Android |  
@@ -49,7 +52,8 @@ Modulos Disponibles:
 Modulo a usar >>
 ```
 *Al seleccionar el modulo a trabajar, creará el script con el nombre que le pedirá.*
-<a href="#"><img src="https://img.shields.io/badge/Versión%20De%20Software-1.0.2-b?style=plastic&color=white&logoColor=black"></a>
+<br><a href="#"><img src="https://img.shields.io/badge/Versión%20De%20Software-1.0.2-b?style=plastic&color=white&logoColor=black"></a>
 <a href="#"><img src="https://img.shields.io/badge/Lenguaje%20Utilizado-python3.7-b?style=plastic&logo=python&color=black&logoColor=yellow"></a>
+
 
 
